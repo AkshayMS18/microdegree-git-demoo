@@ -1,0 +1,7 @@
+#git commands to be used
+
+git init or git clone
+git status 
+git commit -m "commit message"
+git push
+git pull - want those new changes to be reflected in our local repository
